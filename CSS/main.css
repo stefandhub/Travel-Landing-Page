@@ -1,0 +1,70 @@
+body,html {
+    margin: auto;
+    padding: 0;
+    width: 1600px;
+    background-color: papayawhip;
+    font-family: 'Playfair Display', serif;
+}
+/* explore__and__travel section */
+
+.explore__and__travel {
+    width: 88.4%;
+    height: 768px;
+    margin: auto;
+    margin-top: 35px;
+    background-color: red ;
+}
+
+/* a__new__way__to__explore section */
+.a__new__way__to__explore {
+    width: 77.6%;
+    height: 550px;
+    margin: auto;
+    margin-top: 270px;
+    background-color: yellow ;
+}
+
+/* featured__destinations  section */
+.featured__destinations {
+    width: 77.4%;
+    height: 532px;
+    margin: auto;
+    margin-top: 262px;
+    background-color: green ;
+    
+}
+
+/* guides__by__thousand__sunny section */
+.guides__by__thousand__sunny {
+    width: 75.3%;
+    height: 542px;
+    margin: auto;
+    margin-top: 173px;
+    background-color: pink ;
+}
+
+/* testimonials section */
+.testimonials {
+    width: 73.7%;
+    height: 616px;
+    margin: auto;
+    margin-top: 248px;
+    background-color: brown ;
+}
+
+/* trending__stories section */
+.trending__stories {
+    width: 76.3%;
+    height: 684px;
+    margin: auto;
+    margin-top: 213px;
+    background-color: blue ;
+}
+
+/* footer section */
+.footer{
+    width: 100%;
+    height: 482px;
+    margin-top: 196px;
+    background-color: orange ;
+}
